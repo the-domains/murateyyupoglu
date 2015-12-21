@@ -1,0 +1,28 @@
+name: MuratEyyupoglu
+favicon: null
+layout_spectrum: 0.7349969802889973
+typography_spectrum: 0.5758884721435606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2959576491266489
+  lightness: 0.9491911712102592
+  saturation: 0.5990843859035522
+  rhythmicContrast: 0.16792792011983693
+purpose: []
